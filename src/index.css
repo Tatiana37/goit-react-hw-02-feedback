@@ -20,3 +20,8 @@ code {
 ul {
   list-style: none;
 }
+
+.message {
+  font-size: 25px;
+  font-weight: normal;
+}

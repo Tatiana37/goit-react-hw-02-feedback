@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 
 function Notification({ message }) {
-  return <p className="title">{message}</p>;
+  return <p className="message">{message}</p>;
 }
 
 Notification.propTypes = {
